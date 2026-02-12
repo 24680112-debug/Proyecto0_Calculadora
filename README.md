@@ -147,7 +147,7 @@ class CalculatorApp(ft.Container):
 ```
 
 
-4.El motor lógico y el encendido de la aplicación
+# 4.El motor lógico y el encendido de la aplicación
 ```
 def format_number(self, num):
         if num % 1 == 0:
